@@ -74,4 +74,4 @@ When your homework is done, open a pull request:
 
 1. Go to GitHub, find the repo you were
 2. Click `Pull Requests`
-3. Awwwweeeesssommmeee 1st lab.(:
+3. 'so fluffy i'm gonna' die' :)))
